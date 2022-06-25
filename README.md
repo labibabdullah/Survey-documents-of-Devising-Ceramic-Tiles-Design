@@ -1,5 +1,5 @@
 # Survey-documents-of-Devising-Ceramic-Tiles-Design
-The survey documents of "Devising Ceramic Tiles Design"  can be found here. 
+The survey documents of "Devising Ceramic Tiles Design"  can be found here. Some documents are shown here rest can found in git folders. 
 
 <h2>Some Images of The Survey<h2>
 <img src='Survey collected from Mir Ceramics\1.jpeg' style="width: 400px; height: 530px" />
