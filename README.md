@@ -10,6 +10,6 @@ The survey documents of "Devising Ceramic Tiles Design"  can be found here.
   
   <h2>Some Images from the Survey Collection Event</h2>
   <img src='Survey event images\1.jpg' style="object-fit: cover" />
-  <img src='Survey event images\2.jpg' style="width: 400px; height: 530px" />
-  <img src='Survey event images\3.jpg' style="width: 400px; height: 530px" />
-  <img src='Survey event images\4.jpg' style="width: 400px; height: 530px" />
+  <img src='Survey event images\2.jpg' style="object-fit: cover" />
+  <img src='Survey event images\3.jpg' style="object-fit: cover" />
+  <img src='Survey event images\4.jpg' style="object-fit: cover" />
